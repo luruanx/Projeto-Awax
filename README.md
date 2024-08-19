@@ -8,7 +8,7 @@
 
 <p align="center"> 
     <a href="#Layout-Web">Layout Web</a> |
-    <a href="#Tablet">Layout Tablet/Mobile</a> |
+    <a href="#Tablet">Layout Tablet-Mobile</a> |
     <a href="#Sobre">Sobre</a> |
     <a href="#Contato">Contato</a>
 </p>
@@ -44,16 +44,16 @@ Page desenvolvida priorizando o [HTML Semântico](https://github.com/luruanx/Pro
 <p align="center"> 
     <a href="https://luruanx.github.io/Projeto-Awax/">Clique aqui e veja o resultado</a>
 
-??
+https://github.com/user-attachments/assets/7c84269f-4d21-44d0-a5b1-2fa1d5ba4ee0
 
 <br>
 <br>
 
-## Tablet e Mobile:
+### Tablet e Mobile:
 <p align="center"> 
     <a href="https://luruanx.github.io/Projeto-Awax/">Responsivo em qualquer tamanho de tela</a>
 
-??
+https://github.com/user-attachments/assets/5d687af2-c81a-425e-8fd2-ee0342650f62
 
 <br>
 
@@ -61,7 +61,7 @@ Page desenvolvida priorizando o [HTML Semântico](https://github.com/luruanx/Pro
   <img alt="imagens das interfaces do app" max-height="600" max-width="600" src="assets/img/Interface/prototipo gif.gif">
 </div>
 
-## Sobre:
+### Sobre:
 
 - ### De onde veio a inspiração? 
 
@@ -69,7 +69,7 @@ Page desenvolvida priorizando o [HTML Semântico](https://github.com/luruanx/Pro
 
 - ### Identidade Visual
 
-  **Logomarca:** Generica econtrada no [Vecteezy](https://www.vecteezy.com/). <br> <br>
+  **Logomarca:** Genérica encontrada no [Vecteezy](https://www.vecteezy.com/). <br> <br>
 
   **Paleta de Cores:** 
 
@@ -82,7 +82,7 @@ Page desenvolvida priorizando o [HTML Semântico](https://github.com/luruanx/Pro
 
   <br>
 <div align="center">
-  <img align="center" alt="font-family"width="500" src="assets/img/font-family.png">
+  <img align="center" alt="font-family"width="600" src="assets/img/font-family.png">
 </div> <br> <br>
 
 ---
