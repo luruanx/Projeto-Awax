@@ -77,6 +77,14 @@ body {
     border-radius: 20px;
     border: none;
 }
+.button:hover {
+    background-color: #896741;
+}
+
+.trans:hover {
+    transform: scale(1.03);
+    transition: .4s;
+}
 
 /* HEADER */
 
