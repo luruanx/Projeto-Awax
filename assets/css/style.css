@@ -112,10 +112,6 @@ header {
 .menu-opener {
     display: none;
 }
-.navshow {
-    right: 0;
-    transition: ease .5s;
-}
 
 .menu {
     flex: 1;
@@ -870,7 +866,7 @@ footer {
         margin-right: 30px;
     }
     nav {
-        display: flex;
+        display: none;
         position: absolute;
         z-index: 99;
         background-color: #121212f6;
@@ -878,8 +874,6 @@ footer {
         height: calc(100vh - 100px);
         top: 100px;
         right: 0;
-        right: -540px;
-        transition: ease .5s;
     }
     .menu ul {
         flex-direction: column;
@@ -1030,7 +1024,7 @@ footer {
         margin-right: 30px;
     }
     nav {
-        display: flex;
+        display: none;
         position: absolute;
         z-index: 99;
         background-color: #121212f6;
@@ -1038,11 +1032,10 @@ footer {
         height: calc(100vh - 100px);
         top: 100px;
         right: 0;
-        right: -540px;
-        transition: ease .5s;
     }
     .menu ul {
         flex-direction: column;
+        align-items: start;
     }
     .menu li a {
         font-weight: bold;
