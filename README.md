@@ -15,7 +15,7 @@
 <br>
 
 ### Resumo:
-O objetivo principal deste projeto é colocar em prática tudo o que foi estudado sobre FlexBox no curso da B7Web.
+O objetivo principal desenvolver um website seguindo o Layout do Figma, usando conhecimentos FlexBox.
 
 ### Desenvolvido até aqui:
 
