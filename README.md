@@ -1,9 +1,6 @@
 
 <h1 align="center">
-<picture>
-  <img width="200" alt="logo awax" src="assets/img/logo-awax.png">
-</picture>
-    <p>AWAX – SITE DESENVOLVIDO PARA PRÁTICA DE FLEXBOX</p>
+    <p>AWAX – AGÊNCIA DE DESIGN</p>
 </h1>
 
 <p align="center"> 
